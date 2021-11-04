@@ -17,3 +17,9 @@
 .chapters-list-fixed{
   width: clamp(250px,24vw,500px);
 }
+
+
+.card {
+  width:  350px;
+  height: 450px;
+}
