@@ -8,3 +8,12 @@
 .jetbrainsmono{
     font-family: main;
 }
+
+.page-article{
+  margin-left: clamp(260px,25vw,500px);
+  padding: 0 2rem;
+}
+
+.chapters-list-fixed{
+  width: clamp(250px,24vw,500px);
+}
